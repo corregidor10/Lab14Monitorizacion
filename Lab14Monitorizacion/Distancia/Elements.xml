@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{291f6e69-8cf1-4e65-9698-84e1debf99f6}"
+       Name="Distancia"
+       DisplayName="Distancia"
+       Type="Number"
+       Required="TRUE"
+       Group="Custom Site Columns">
+  </Field>
+</Elements>

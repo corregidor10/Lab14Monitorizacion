@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a442e77d-42ce-4a27-9b63-7dbbd59e07e5" solutionId="a442e77d-42ce-4a27-9b63-7dbbd59e07e5" resetWebServer="false" sharePointProductVersion="16.0" name="Lab14Monitorizacion" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="769a1eb8-62b6-4a37-94c6-26d9adbe27b2" />
+  </features>
+</package>
